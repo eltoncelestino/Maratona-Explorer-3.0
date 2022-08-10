@@ -8,6 +8,12 @@ Projeto de um menu online para uma cafeteria, desenvolvido durante a semana da M
    <img src="./img/menu rocketseat.PNG" alt="imagem RocketSeatCoffee">
 </div>
 
+## O que foi realizado no projeto
+* Criação da página web.
+* Deploy utilizando o Netlify
+* QR Code com o link do site gerado.
+
+
 ## Tecnologias utilizadas
 * HTML5
 * CSS3
